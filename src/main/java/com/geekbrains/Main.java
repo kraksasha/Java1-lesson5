@@ -19,6 +19,6 @@ public class Main {
                 persArray[i].infoAboutPerson();
             }
         }
-
     }
+
 }
